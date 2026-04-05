@@ -16,6 +16,12 @@
 
 `https://www.hubspot.com/hubfs/New1.jpg`
 
+### Image 3
+
+![visual example 3](https://www.wns.com/portals/0/FSx/Images/Infographics/Top-5-Trends-in-the-CPG-industry_updated.jpg)
+
+`https://www.wns.com/portals/0/FSx/Images/Infographics/Top-5-Trends-in-the-CPG-industry_updated.jpg`
+
 ## Source URLs — Verbatim Text
 
 _Text extracted verbatim from each source URL at time of compilation._
