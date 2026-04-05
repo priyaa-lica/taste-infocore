@@ -1,43 +1,43 @@
 ---
 name: infocore
-description: A clean, data-driven aesthetic focused on structured information display.
+description: Encodes a precise, visually structured approach to infographic design.
 
 ---
 
 # Infocore — Visual Skill
 
 ## When to Use
-Ideal for presenting data, insights, or structured information in a visually engaging format for educational, corporate, or research purposes. Use when clarity, organization, and quick data comprehension are critical.
+Use for data visualization, educational materials, or business presentations where clarity, organization, and hierarchies of information are essential. Suitable for situations requiring balanced composition and a professional, engaging tone.
 
 ## Aesthetic Identity
-This aesthetic prioritizes precision, balance, and logical organization. It employs a restrained yet engaging visual approach, avoiding unnecessary embellishments. It conveys trustworthiness, professionalism, and accessibility.
+Clean and legible. Prioritizes functional design. Balances approachable warmth with technical precision. Emphasizes a structured layout and clear typographic hierarchies. Avoids excessive visual complexity while preserving dynamism through balanced use of shapes and colors.
 
 ## Color System
-The palette uses soft, complementary colors such as muted yellows, coral reds, teal, and warm neutrals. Saturation is moderate, favoring legibility over bold vibrancy. Value range includes light backgrounds and midrange accents. Avoid harsh neons, overly dark tones, or pure black and white.
+Colors prioritize high-contrast combinations. Primary palette includes bold hues such as red, blue, yellow, orange, and teal. Secondary colors include neutrals such as whites and light grays. Saturation ranges from mid to high. Text maintains readable contrasts against the background. Avoids muted tones or dark, moody gradients.
 
 ## Composition Rules
-Infocore employs a grid system for alignment, ensuring high legibility and balance. Spatial density is moderate, with clear separation between sections using lines or blocks of color. Symmetry is partial; asymmetry may be used to direct focus. Whitespace is ample to avoid clutter, with one or two focal points per section.
+Balanced layout with definite grid alignment. Uses symmetrical and asymmetrical blocks depending on the flow of information. Encourages whitespace to avoid cluttered visuals. Utilizes focal points created by color and size contrast for directing attention to key data visuals. Visual density is medium; avoids overcrowding.
 
 ## Typography
-Sans-serif typefaces dominate, favoring clean and modern looks. Weight distribution leans toward medium or bold for titles and data points, with lighter weights for secondary text. Tracking is tight but not compressed, ensuring clarity. Titles are often uppercase while body text remains sentence-case. Hierarchy is strictly maintained, with primary data visually prioritized.
+Sans-serif fonts dominate, with clean, modern styles like Open Sans or Lato. Weight variations include light, regular, and bold for hierarchy. Primary headings are often large and bold, with clear paragraph and itemized lists for detailed content. Tracking remains slightly tight for dense blocks. Uses sentence case or title case; avoids uppercase text for readability.
 
 ## Material & Surface
-The aesthetic evokes smooth, digital surfaces with flat colors. It avoids texture or depth; gradients are subtle and used sparingly for emphasis. Reflects traits of deliberate print-like clarity rather than tactile or rough surfaces.
+Evokes a flat digital surface with sharp edges. Minimal shading or gradients are used outside charts or icons. Strong reliance on clean vector icons and graphics. Avoids physical textures like paper, glass, or noise-based surfaces.
 
 ## Cultural Anchors
-This aesthetic draws from modern infographic design trends spanning the 2010s-2020s. It reflects influences from corporate presentation decks, educational posters, and UX design patterns common in dashboards and analytics tools.
+Influenced by contemporary corporate design, mid-20th century modernism, and infographic trends in digital media. Closely related to modern UX/UI design principles and visual communication standards.
 
 ## Exclusions
-Prohibits chaotic layouts, intricate illustrations, hand-drawn elements, and decorative flourishes. Rejects dark-heavy palettes, serif fonts, overly vibrant or clashing colors, and textures like grunge or wood grain.
+Refuses muted or pastel palettes, ornate typography, overly decorative graphics, overly dense or chaotic layouts, and textured finishes. Avoids skeuomorphic design elements such as shadows or raised surfaces.
 
 ## Generative Instructions
-1. Use a defined grid system for alignment; ensure equal column widths and consistent spacing.
-2. Select 3-4 complementary soft-toned colors for the palette (e.g., coral, teal, yellow, and warm beige).
-3. Apply sans-serif typography with clear hierarchy: bold titles, medium-weight subheaders, and light-weight body text.
-4. Title text should be uppercase, while body copy remains sentence-case. Keep tracking tight but avoid overcrowding.
-5. Build informational sections with clear boundaries using solid color blocks or dividing lines.
-6. Incorporate icons or simple shapes for visual balance and quick data identification.
-7. Use circles, bars, and pie charts for data illustration; avoid complex visualizations.
-8. Maintain ample whitespace around text and graphics for clarity and focus.
-9. Favor flat designs without heavy gradients or textures. Use subtle gradients sparingly for emphasis.
-10. Test the layout for readability and clarity, ensuring primary information is immediately noticeable.
+1. Start with a grid-based layout to define sections and columns for clear alignment of elements.
+2. Apply a bold and high-contrast palette — combine reds, yellows, blues, and complementary tones with neutrals.
+3. Use clean sans-serif typefaces with clear hierarchy — large headings, medium subheadings, and smaller body text.
+4. Incorporate vector shapes and icons for charts, graphs, and illustrative elements.
+5. Create focal points for key statistics using size and color contrasts (e.g., large bold numbers in attention-grabbing colors).
+6. Maintain medium visual density by spacing out sections and ensuring adequate whitespace.
+7. Design a clean digital surface — avoid textures, shadows, or skeuomorphic elements.
+8. Keep text readable. Use sentence or title case without excessive tracking adjustments.
+9. Align all visuals to the defined grid to maintain structural consistency.
+10. Test for readability and logical flow of information across the layout before finalizing.
